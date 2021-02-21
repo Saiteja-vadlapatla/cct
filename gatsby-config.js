@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "cctInGatsby",
   },
+  pathPrefix: "/cct",
   plugins: [
     "gatsby-plugin-sharp",
     "gatsby-plugin-offline",

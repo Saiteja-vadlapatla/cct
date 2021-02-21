@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,n){"use strict";n.r(t);var o=n("q1tI"),a={color:"#232129",padding:"96px",fontFamily:"-apple-system, Roboto, sans-serif, serif"},r={marginTop:0,marginBottom:64,maxWidth:320};t.default=function(){return o.createElement("main",{style:a},o.createElement("title",null,"Core"),o.createElement("h1",{style:r},"Core Carbide Tools"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-531b47bc7cbd5b6b2c59.js.map
